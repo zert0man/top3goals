@@ -1,4 +1,4 @@
-bot: python3 bot.py
+
 [[source]]
 name = "pypi"
 url = "https://pypi.org/simple"
@@ -11,3 +11,5 @@ pytelegrambotapi = "*"
 
 [requires]
 python_version = "3.7"
+
+
